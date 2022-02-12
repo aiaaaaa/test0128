@@ -1,0 +1,16 @@
+p{
+    background: red;
+    border-radius: 39px;
+    text-align: center;
+    height: 100px;
+    width: 40%;
+}
+
+.test1{
+    display: flex;
+    flex-direction: column;
+    background: blue;
+    width: 200px;
+    height: 200px;
+    border-radius: 40px;
+}
